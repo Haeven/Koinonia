@@ -1,4 +1,2 @@
 # koinonia
-READ-ONLY
-
-No OS License 
+Read-only | No open source license
